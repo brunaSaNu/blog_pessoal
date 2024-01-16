@@ -1,4 +1,4 @@
-package com.generation.blogpessoal.repositpry;
+package com.generation.blogpessoal.repository;
 
 import java.util.List;
 
